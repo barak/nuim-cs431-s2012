@@ -1,39 +1,39 @@
-Origins of copyright, 
-Before Gutenberg, cost of books related to cost of copying 
+Origins of copyright,
+Before Gutenberg, cost of books related to cost of copying
 Costs covered by a patron.  
-early days of printing press, no copyright protection 
-First copyright law, author controls right for 7 years, increased.  
+early days of printing press, no copyright protection
+First copyright law, author controls right for 7 years, increased.
 
 Copying became easier, cheaper.  Computers etc
-Computer programs not seen as copyright until 80s 
-Recopies not subject to copyright, functional not expressive.  
-Source code copyright, compiled code not copyright.  
+Computer programs not seen as copyright until 80s
+Recopies not subject to copyright, functional not expressive.
+Source code copyright, compiled code not copyright.
 Franklen vs Apple, copying roms ok
-Bill Gates, selling software, not commissioned, software as product.  
+Bill Gates, selling software, not commissioned, software as product.
 
 First generation of laser printer
-MIT tweaked the print software.  
-Richard Stallman  http://www.april.org/articles/intro/gnu.html.en  
-Refused to give him source code to printer.  
+MIT tweaked the print software.
+Richard Stallman  http://www.april.org/articles/intro/gnu.html.en
+Refused to give him source code to printer.
 He was furious and started free software movement
-Moral imperative vs social good for giving source code.  
-Writing mass market software, 
-Writing free software, ad hock distribution 
+Moral imperative vs social good for giving source code.
+Writing mass market software,
+Writing free software, ad hock distribution
 
 Burkley, FreeBSD
 MIT, UNIX
 two components frist, gcc
 free editor Emax
-compiler 
+compiler
 Small utilities in unix (ls, cat, true false dif, sort etc)
 
 auto tools
 Free compiler, GCC
-Tartan labs, propiatry, 
+Tartan labs, propiatry,
 
 Stage computation, checks computer for properties
-Make, 
-make file, source 
+Make,
+make file, source
 out comes executable
 Make file, tabs
 autoconf calls M4
