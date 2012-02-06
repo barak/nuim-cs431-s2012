@@ -1,6 +1,6 @@
 Origins of copyright,
 Before Gutenberg, cost of books related to cost of copying
-Costs covered by a patron.  
+Costs covered by a patron.
 early days of printing press, no copyright protection
 First copyright law, author controls right for 7 years, increased.
 
@@ -8,7 +8,7 @@ Copying became easier, cheaper.  Computers etc
 Computer programs not seen as copyright until 80s
 Recopies not subject to copyright, functional not expressive.
 Source code copyright, compiled code not copyright.
-Franklen vs Apple, copying roms ok
+Franklin vs Apple, copying roms ok
 Bill Gates, selling software, not commissioned, software as product.
 
 First generation of laser printer
@@ -20,20 +20,20 @@ Moral imperative vs social good for giving source code.
 Writing mass market software,
 Writing free software, ad hock distribution
 
-Burkley, FreeBSD
+Berkeley, FreeBSD
 MIT, UNIX
-two components frist, gcc
-free editor Emax
+two components first, gcc
+free editor EMACS
 compiler
-Small utilities in unix (ls, cat, true false dif, sort etc)
+Small utilities in Unix (ls, cat, true, false, diff, sort, etc.)
 
 auto tools
 Free compiler, GCC
-Tartan labs, propiatry,
+Tartan labs, proprietary,
 
 Stage computation, checks computer for properties
 Make,
 make file, source
 out comes executable
 Make file, tabs
-autoconf calls M4
+autoconf calls m4
