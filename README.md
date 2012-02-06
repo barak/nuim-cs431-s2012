@@ -26,12 +26,12 @@ Reference Materials:
   successful open source project:
   http://open-advice.org/Open-Advice.pdf
 
-* Git Community Book: http://book.git-scm.com/
+* _Git Community Book_: http://book.git-scm.com/
 
 * Interactive git cheat sheet:
   http://ndpsoftware.com/git-cheatsheet.html
 
-* Book, Perspectives on Free and Open Source Software, MIT Press:
+* Book, _Perspectives on Free and Open Source Software_, MIT Press:
   http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11216
   also free online:
   http://mitpress.mit.edu/books/chapters/0262562278.pdf
