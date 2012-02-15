@@ -8,3 +8,5 @@ make it flexible to instead use, e.g., lame jokes
  Why won't shrimp share? Because they're a little shellfish!
 tech: send via o2sms, receive via USB interface to phone
 (doubtless someone has already done this on the web)
+
+get IPv6 working in tribler
