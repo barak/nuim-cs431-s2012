@@ -1,0 +1,7 @@
+#! /bin/sh -f
+
+for u in cianmcgovern crystalera encryptix omisoft ArranMcCabe \
+    Chocken emilyc possiblyneil boundless08 hawkstalion;
+do
+    git remote add $u git://github.com/$u/nuim-cs431-s2012
+done
