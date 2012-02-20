@@ -1,0 +1,2 @@
+I fixed bug #8348 in xfce4-systemload-plugin with https://github.com/cianmcgovern/xfce4-systemload-plugin/commit/e5a39dd63c268b489aea3f5ed46fafbf2bb05e05
+The bug involved adding a feature to toggle the display of days in the uptime display.
