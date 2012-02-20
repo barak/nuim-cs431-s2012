@@ -10,3 +10,6 @@ tech: send via o2sms, receive via USB interface to phone
 (doubtless someone has already done this on the web)
 
 get IPv6 working in tribler
+
+rewrite f2c (Fortran77-to-C translator written in C / lex / yacc in
+Haskell / antlr
