@@ -1,0 +1,8 @@
+Fixed a bug in groovewalrus (desktop grooveshark player). The bug is found at: 
+http://code.google.com/p/turnip-town/issues/detail?id=153
+
+The issue was that the original code was using cwd as the base directory for loading items and loading a song moved your working directory.
+
+The bug fix can be found at http://code.google.com/p/turnip-town/source/detail?r=329
+
+
