@@ -12,7 +12,9 @@ Assignments:
 * fork this repo
 
 * fix a bug in (or add a feature to) some free software, and try to
-  push your mods upstream.
+  push your mods upstream.  Describe your work in this here repo.
+
+* write a description of a software ecosystem.
 
 Lectures:
 

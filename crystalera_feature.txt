@@ -1,0 +1,8 @@
+** James Mustapha Ahmed < crystalera > - 68700028
+** CS431 - Advanced Concepts 2
+
+Feature : Introduced -autoxml flag into the MAUVE project.
+Project : http://sourceware.org/mauve/
+Proposal : http://sourceware.org/ml/mauve-discuss/2012-q1/msg00003.html
+Changeset : http://icedtea.classpath.org/mirror/git/mauve/mauve/commit/?id=a7e8d7fa77a81ad3b22852ab1c77f9781bd10f01
+Description : Introduced a new method of generating results using xml in the mauve project
