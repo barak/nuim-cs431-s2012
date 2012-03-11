@@ -1,0 +1,2 @@
+Fixed issue #1 (https://github.com/snicholls/Tog-Mobile/issues/1) in project https://github.com/snicholls/Tog-Mobile.
+Made use of the API to make the function that returns open/close status of the more reliable
