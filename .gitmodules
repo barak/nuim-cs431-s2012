@@ -1,0 +1,24 @@
+[submodule "myeventhub"]
+	path = myeventhub
+	url = git@bitbucket.org:arranmccabe/myeventhub.git
+[submodule "xfce4-remotenotify-plugin"]
+	path = xfce4-remotenotify-plugin
+	url = git://github.com/cianmcgovern/xfce4-remotenotify-plugin
+[submodule "OpenGL-Sinewave"]
+	path = OpenGL-Sinewave
+	url = git://github.com/Chocken/OpenGL-Sinewave
+[submodule "aur-nvidia-mainline"]
+	path = aur-nvidia-mainline
+	url = git://github.com/cianmcgovern/aur-nvidia-mainline
+[submodule "Weather-Background-Changer"]
+	path = Weather-Background-Changer
+	url = git://github.com/hawkstalion/Weather-Background-Changer.git
+[submodule "CS431-Dist-JS"]
+	path = CS431-Dist-JS
+	url = git://github.com/encryptix/CS431-Dist-JS.git
+[submodule "CS431_Project"]
+	path = CS431_Project
+	url = git://github.com/emilyc/CS431_Project
+[submodule "SpiderWeb"]
+	path = SpiderWeb
+	url = https://github.com/crystalera/SpiderWeb
