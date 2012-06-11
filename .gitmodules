@@ -22,3 +22,6 @@
 [submodule "SpiderWeb"]
 	path = SpiderWeb
 	url = https://github.com/crystalera/SpiderWeb
+[submodule "DashCam"]
+	path = DashCam
+	url = git://github.com/encryptix/DashCam
