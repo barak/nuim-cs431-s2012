@@ -25,3 +25,12 @@
 [submodule "DashCam"]
 	path = DashCam
 	url = git://github.com/encryptix/DashCam
+[submodule "Tog-Mobile"]
+	path = Tog-Mobile
+	url = git://github.com/hawkstalion/Tog-Mobile
+[submodule "OmiSoft-Fleet-Command"]
+	path = OmiSoft-Fleet-Command
+	url = git://github.com/omisoft/OmiSoft-Fleet-Command.git
+[submodule "report"]
+	path = report
+	url = git://github.com/possiblyneil/report
