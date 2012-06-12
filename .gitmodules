@@ -34,3 +34,12 @@
 [submodule "report"]
 	path = report
 	url = git://github.com/possiblyneil/report
+[submodule "ArranMcCabe-Weather-Background-Changer"]
+	path = ArranMcCabe-Weather-Background-Changer
+	url = git://github.com/ArranMcCabe/Weather-Background-Changer
+[submodule "lunch"]
+	path = lunch
+	url = git://github.com/ArranMcCabe/lunch
+[submodule "AWT-Games"]
+	path = AWT-Games
+	url = git://github.com/boundless08/AWT-Games.git
