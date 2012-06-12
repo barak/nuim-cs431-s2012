@@ -1,0 +1,118 @@
+
+		  An analysis of the economic models
+			and citation benefits
+		     behind Open Access Journals
+
+By Declan Meenagh
+
+			     Introduction
+
+This paper looks at the current model of for profit academic journals, and
+then analysis the models behind Open Access journals.  It then looks at the
+citation benefits to open access journals.
+
+		     Current for profit Journals,
+
+Currently, most academic journals are organised on a for profit basis.
+They are owned by a company, who hires some staff to organise volunteer
+editors and writers.  Usually Libraries in academic institutions pay a
+subscription fee to the Journal publisher to give people in the institution
+access to the journal.
+
+In terms of citations, it is reasonable to conclude that only members of
+institutions which have purchased a subscription will cite the paper.
+Compared to freely available papers, the pool of potential citations is
+significantly reduced.
+
+The other issue is with discovery.  Because a lot of these are behind a pay
+wall they mightn’t be fully indexed by search engines.
+
+		       The Open Access movement
+
+Open Journals refer to journals that allow content to be accessed free of
+charge, and allow content to be used without major copyright restrictions,
+usually licenced under an open source/creative commons type licence.
+
+Because Open Access Journals are indexed by all search engines, they are
+easier to find and use.  The other point is that the search engines are
+more effective because they can search all the journals and different
+content types as well.  Personalised search can also be helpful in giving
+the researcher the paper they need.
+
+It would seem obvious that Open Access journal articles attract more
+citations, but here I look at the evidence to see what research has
+uncovered.
+
+First, in 2001, Nature published an article entitled Free online
+availability substantially increases a paper's impact[1].  This report
+analyses over 100,000 articles in computer science conferences.  The key
+result is “The mean number of citations to offline articles is 2.74, and
+the mean number of citations to online articles is 7.03, an increase of
+157%.”
+
+
+
+In the BMJ, a randomized controlled test was carried out in 11
+journals published by the American Physiological Society.  1619 papers
+were randomly assigned either to open access our subscription access
+and their citations and downloads were tracked over a year.
+
+The results showed a dramatic increase in downloads, but no difference
+in citations over the year.
+
+While this seems to show there is no citation benefit to open access
+articles, the research was carried out in 2007, and no further
+research is available.  It would be interesting to have more up to
+date research done.  It would also help if multiple research was
+carried out.
+
+  Boycotting for profit journals and why it mightn’t be the answer.
+
+Aside from being required legally to publish open research, some
+academics have taken it on themselves to boycott for profit journals.
+
+In a piece for the Guardian [3] higher education network, Martin Paul
+Eve, a doctoral researcher at the University of Sussex, argues that
+there is a danger in the boycott.  He argues that a researcher’s
+publications are used as a rank with more prestigious for profit
+journals gaining a higher rank.  If young researchers begin to boycott
+these journals, their careers will suffer without any benefit.  He
+argues that management need to be more aware of the issue and to
+consider submissions on their merits and not just on where they are
+published.
+
+
+		  The economics behind Open Journals
+
+Author contribution
+Non Author contribution
+Publicly funded research
+
+			Can Open Access Work?
+
+Open Access gets rid of print, also gets rid of subscription
+management.  Open Access has no DRM, Legal or marketing costs.  Can
+support some premium features.
+
+If Library’s spent some of the journal subscription budget on
+supporting Open Access Journals?
+
+			     Legislation
+
+Most countries have laws which require any research which is state
+funded to be publicly available.  In the US, the Research Works Act
+tried to outlaw Open Access but wasn’t passed.
+
+
+References:
+
+[1] Lawrence, S., Free online availability substantially increases a
+paper's impact, Nature, 31 May 2001
+http://www.nature.com/nature/debates/e-access/Articles/lawrence.html
+
+[2] Open access publishing, article downloads, and citations:
+randomised controlled trial
+http://www.bmj.com/content/337/bmj.a568#alternate
+
+[3] Open Access Journals, are we asking the right questions?
+http://www.guardian.co.uk/higher-education-network/blog/2012/feb/08/open-access-journals-elsvier-boycott
